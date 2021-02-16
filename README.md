@@ -8,6 +8,15 @@ I'm security expert in the field of Track and Trace, GPS devices and personal al
 
 🔮In the future I want to create my own Youtube channel, learn more about **backend** and start my own company.
 
+***Open for opportunities***
+
+[<img src="https://raw.githubusercontent.com/nesiht/nesiht/master/004-linkedin.png" width="48">][linkedin]
+
+
+
+[linkedin]: https://www.linkedin.com/in/mathias-thorstr%C3%B6m-462935172/
+
+
 
 
 <!---

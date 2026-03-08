@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Mathias 
-### Frontend Developer
+
 I like building systems.
 
 From small apps and scripts to self-hosted infrastructure, automation pipelines and data tools.

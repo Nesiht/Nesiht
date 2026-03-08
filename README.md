@@ -1,20 +1,18 @@
 # 👋 Hi, I’m Mathias 
 ### Frontend Developer
-I'm security expert in the field of Track and Trace, GPS devices and personal alarms, turned frontend developer. I'm passionate about technique that develop societies and apply human growth, with my frontend developer skills, I think I can make a difference.
+I like building systems.
 
-💻 Using HTML, CSS, JavaScript, React, Redux, Node.js, Express, MongoDB, Styled-components, Raspberry Pi.
+From small apps and scripts to self-hosted infrastructure, automation pipelines and data tools.
 
-📚 Currently learning more about **React** and **Stylde-components** creating projects left and right.
+Most of my projects start with a practical problem I want to solve — then evolve into experiments with APIs, data, automation or infrastructure.
 
-🔮In the future I want to create my own Youtube channel, learn more about **backend** and start my own company.
+Areas I enjoy working with:
+• automation and scripting  
+• self-hosted infrastructure / homelab  
+• data analysis and APIs  
+• experimental tools and utilities  
 
-***Open for opportunities***
-
-[<img src="https://raw.githubusercontent.com/nesiht/nesiht/master/004-linkedin.png" width="48">][linkedin]
-
-
-
-[linkedin]: https://www.linkedin.com/in/mathias-thorstr%C3%B6m-462935172/
+GitHub is my workshop.
 
 
 
